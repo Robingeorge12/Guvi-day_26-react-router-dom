@@ -1,0 +1,40 @@
+.cyber-container{
+    /* border: 1px solid black; */
+
+    margin-top: 50px;
+}
+
+.cyber{
+    /* border: 1px solid red; */
+    font-size: 12px;
+}
+.cyber-date{
+    font-size: 12px;
+}
+.ic{
+    margin-top: -13px;
+    padding: 0px;
+}
+.dot{
+    width: 2%;
+    height: 2px;
+    border-radius: 50%;
+    color: black;
+    border:2px solid black;
+    margin: 0%;
+    padding: 0%;
+}
+.cyber-image{
+    height: 185px;
+}
+.cyber-img{
+    height: 100%;
+}
+/* @media screen and (max-width: 600px) {
+    .cyber{
+        font-size: 10px;
+    }
+    .cyber-date{
+        font-size: 10px;
+    }
+} */

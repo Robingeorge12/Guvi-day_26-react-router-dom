@@ -1,0 +1,39 @@
+.career-container{
+    /* border: 1px solid black; */
+    margin-top: 50px;
+}
+
+.career{
+    /* border: 1px solid red; */
+    font-size: 12px;
+    /* width: 61%; */
+    /* margin-left: 17px; */
+    /* align-items: center;
+    justify-content: space-between;
+    display: flex; */
+
+}
+.career-s1{
+    border: 1px solid black;
+    width: 70%;
+    font-size: 12px;
+}
+.career-image{
+    height: 185px;
+}
+.career-date{
+    font-size: 12px;
+}
+.ic{
+    margin-top: -13px;
+    padding: 0px;
+}
+.dot{
+    width: 2%;
+    height: 2px;
+    border-radius: 50%;
+    color: black;
+    border:2px solid black;
+    margin: 0%;
+    padding: 0%;
+}
